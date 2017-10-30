@@ -16,4 +16,5 @@ module.exports = function() {
         .setValue(riskPageElementIds.proposerEmailAddress,"test@test.com")
         .setValue(riskPageElementIds.proposerHouseNumber,"1")
         .setValue(riskPageElementIds.proposerPostcode,"PE2 6XJ")
+        .click(riskPageElementIds.contactPrefEmail)
 }

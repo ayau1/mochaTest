@@ -11,5 +11,6 @@ module.exports = {
         amount: "#amount",
         proposerEmailAddress: "#email",
         proposerHouseNumber: "#houseNumber",
-        proposerPostcode: "#postcode"
+        proposerPostcode: "#postcode",
+        contactPrefEmail: "label[for=contactByEmail]"
     };
