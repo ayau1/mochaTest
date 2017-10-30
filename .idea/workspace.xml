@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cd364da-63be-4377-a737-ef042d2de565" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hooks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/support/hooks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="50">
+              <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+              <folding>
+                <marker date="1508508639673" expanded="false" signature="0:45" ph="/** Created by Amie Yau on 20/10/2017. ...*/" />
+                <marker date="1508508639673" expanded="true" signature="46:108" ph="//..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/specs/test.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+              <folding>
+                <marker date="1509361377901" expanded="false" signature="0:45" ph="/** Created by Amie Yau on 20/10/2017. ...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="completeValidSingleRisk.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/helpers/methods/completeValidSingleRisk.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="wdioLOCAL.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wdioLOCAL.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="riskPageElementIds.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/helpers/elements/riskPageElementIds.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="52">
+              <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navigateToRiskPage.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/helpers/methods/navigateToRiskPage.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test/support/hooks.js" />
+        <option value="$PROJECT_DIR$/wdio.conf.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/wdioSAUCE.conf.js" />
+        <option value="$PROJECT_DIR$/test/helpers/methods/riskPage.js" />
+        <option value="$PROJECT_DIR$/test/helpers/methods/riskPageMethods.js" />
+        <option value="$PROJECT_DIR$/test/helpers/methods/navigateToRiskPage.js" />
+        <option value="$PROJECT_DIR$/test/helpers/elements/riskPageElements.js" />
+        <option value="$PROJECT_DIR$/test/helpers/elements/riskPageElementIds.js" />
+        <option value="$PROJECT_DIR$/test/helpers/methods/completeValidSingleRisk.js" />
+        <option value="$PROJECT_DIR$/wdioLOCAL.conf.js" />
+        <option value="$PROJECT_DIR$/test/specs/test.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2182" />
+    <option name="height" value="1402" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="support" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="specs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="methods" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="elements" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mochatest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helpers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../life.react-playground" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$/test/specs">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.test.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cd364da-63be-4377-a737-ef042d2de565" name="Default" comment="" />
+      <created>1508494759288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508494759288</updated>
+      <workItem from="1508494760507" duration="17791000" />
+      <workItem from="1509285947464" duration="19415000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37206000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-11" y="-11" width="2182" height="1402" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24988236" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297342" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.3297342" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="655" y="661" width="1408" height="372" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39950165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297342" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wdioPROD.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4250">
+          <caret line="170" column="96" lean-forward="false" selection-start-line="170" selection-start-column="96" selection-end-line="170" selection-end-column="96" />
+          <folding>
+            <marker date="1508752836646" expanded="true" signature="17:9619" ph="{&quot;logLevel&quot;: 'silent'...}" />
+            <marker date="1508752836646" expanded="true" signature="28:460" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="472:510" ph="[...]" />
+            <marker date="1508752836646" expanded="true" signature="553:596" ph="[...]" />
+            <marker date="1508752836646" expanded="true" signature="602:1503" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="1530:1779" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="1798:2108" ph="[...]" />
+            <marker date="1508752836646" expanded="true" signature="1799:2107" ph="{&quot;browserName&quot;: 'chrome'...}" />
+            <marker date="1508752836646" expanded="true" signature="1809:2035" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2114:2508" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2529:2617" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2646:2686" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2714:2863" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2881:2945" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3000:3143" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3230:3282" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3314:3413" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3453:3492" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3526:4593" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="4637:4952" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="4981:5135" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="5169:5257" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="5273:5321" ph="{&quot;ui&quot;: 'bdd'...}" />
+            <marker date="1508752836646" expanded="true" signature="5327:5709" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="5714:5913" ph="/** Gets executed once before all workers get launched. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="5918:5975" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="5980:6375" ph="/** Gets executed just before initialising the webdriver session and test framework. It allows you ...*/" />
+            <marker date="1508752836646" expanded="true" signature="6380:6448" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="6453:6795" ph="/** Gets executed before test execution begins. At this point you can access to all global ...*/" />
+            <marker date="1508752836646" expanded="true" signature="6800:6860" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="6865:6974" ph="/** Hook that gets executed before the suite starts ...*/" />
+            <marker date="1508752836646" expanded="true" signature="6979:7023" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7028:7164" ph="/** Hook that gets executed _before_ a hook within the suite starts (e.g. runs before calling ...*/" />
+            <marker date="1508752836646" expanded="true" signature="7169:7207" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7212:7345" ph="/** Hook that gets executed _after_ a hook within the suite starts (e.g. runs after calling ...*/" />
+            <marker date="1508752836646" expanded="true" signature="7350:7387" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7392:7540" ph="/** Function to be executed before a test (in Mocha/Jasmine) or a step (in Cucumber) starts. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="7545:7587" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7592:7776" ph="/** Runs before a WebdriverIO command gets executed. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="7781:7839" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7844:8144" ph="/** Runs after a WebdriverIO command gets executed ...*/" />
+            <marker date="1508752836646" expanded="true" signature="8149:8221" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="8226:8373" ph="/** Function to be executed after a test (in Mocha/Jasmine) or a step (in Cucumber) starts. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="8378:8419" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="8424:8535" ph="/** Hook that gets executed after the suite has ended ...*/" />
+            <marker date="1508752836646" expanded="true" signature="8540:8583" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="8588:8916" ph="/** Gets executed after all tests are done. You still have access to all global variables from ...*/" />
+            <marker date="1508752836646" expanded="true" signature="8921:8981" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="8986:9264" ph="/** Gets executed right after terminating the webdriver session. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="9269:9336" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="9341:9568" ph="/** Gets executed after all workers got shut down and the process is about to exit. It is not ...*/" />
+            <marker date="1508752836646" expanded="true" signature="9573:9617" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wdioSAUCE.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="46" column="46" lean-forward="true" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+          <folding>
+            <marker date="1508754869060" expanded="false" signature="0:45" ph="/** Created by Amie Yau on 23/10/2017. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="63:10011" ph="{&quot;logLevel&quot;: 'silent'...}" />
+            <marker date="1508754869060" expanded="true" signature="70:502" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="514:552" ph="[...]" />
+            <marker date="1508754869060" expanded="true" signature="595:638" ph="[...]" />
+            <marker date="1508754869060" expanded="true" signature="644:1545" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="1572:1821" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="1840:2445" ph="[...]" />
+            <marker date="1508754869060" expanded="true" signature="1850:2088" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="2097:2196" ph="{&quot;browserName&quot;: 'chrome'...}" />
+            <marker date="1508754869060" expanded="true" signature="2206:2438" ph="{&quot;browserName&quot;: 'Safari'...}" />
+            <marker date="1508754869060" expanded="true" signature="2451:2845" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="2866:2954" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="2983:3023" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3051:3200" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3218:3282" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3337:3480" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3567:3619" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3651:3750" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3790:3829" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3863:4930" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="5040:5348" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="5377:5531" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="5561:5649" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="5665:5713" ph="{&quot;ui&quot;: 'bdd'...}" />
+            <marker date="1508754869060" expanded="true" signature="5719:6101" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="6106:6305" ph="/** Gets executed once before all workers get launched. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="6310:6367" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="6372:6767" ph="/** Gets executed just before initialising the webdriver session and test framework. It allows you ...*/" />
+            <marker date="1508754869060" expanded="true" signature="6772:6840" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="6845:7187" ph="/** Gets executed before test execution begins. At this point you can access to all global ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7192:7252" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7257:7366" ph="/** Hook that gets executed before the suite starts ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7371:7415" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7420:7556" ph="/** Hook that gets executed _before_ a hook within the suite starts (e.g. runs before calling ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7561:7599" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7604:7737" ph="/** Hook that gets executed _after_ a hook within the suite starts (e.g. runs after calling ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7742:7779" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7784:7932" ph="/** Function to be executed before a test (in Mocha/Jasmine) or a step (in Cucumber) starts. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7937:7979" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7984:8168" ph="/** Runs before a WebdriverIO command gets executed. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="8173:8231" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="8236:8536" ph="/** Runs after a WebdriverIO command gets executed ...*/" />
+            <marker date="1508754869060" expanded="true" signature="8541:8613" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="8618:8765" ph="/** Function to be executed after a test (in Mocha/Jasmine) or a step (in Cucumber) starts. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="8770:8811" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="8816:8927" ph="/** Hook that gets executed after the suite has ended ...*/" />
+            <marker date="1508754869060" expanded="true" signature="8932:8975" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="8980:9308" ph="/** Gets executed after all tests are done. You still have access to all global variables from ...*/" />
+            <marker date="1508754869060" expanded="true" signature="9313:9373" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="9378:9656" ph="/** Gets executed right after terminating the webdriver session. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="9661:9728" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="9733:9960" ph="/** Gets executed after all workers got shut down and the process is about to exit. It is not ...*/" />
+            <marker date="1508754869060" expanded="true" signature="9965:10009" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/support/hooks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <marker date="1508508639673" expanded="false" signature="0:45" ph="/** Created by Amie Yau on 20/10/2017. ...*/" />
+            <marker date="1508508639673" expanded="true" signature="46:108" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/specs/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="20" column="2" lean-forward="false" selection-start-line="20" selection-start-column="2" selection-end-line="20" selection-end-column="2" />
+          <folding>
+            <marker date="1509361377901" expanded="false" signature="0:45" ph="/** Created by Amie Yau on 20/10/2017. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wdioPROD.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="157" column="54" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="240" selection-end-column="0" />
+          <folding>
+            <marker date="1508752836646" expanded="true" signature="17:9619" ph="{&quot;logLevel&quot;: 'silent'...}" />
+            <marker date="1508752836646" expanded="true" signature="28:460" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="472:510" ph="[...]" />
+            <marker date="1508752836646" expanded="true" signature="553:596" ph="[...]" />
+            <marker date="1508752836646" expanded="true" signature="602:1503" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="1530:1779" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="1798:2108" ph="[...]" />
+            <marker date="1508752836646" expanded="true" signature="1799:2107" ph="{&quot;browserName&quot;: 'chrome'...}" />
+            <marker date="1508752836646" expanded="true" signature="1809:2035" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2114:2508" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2529:2617" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2646:2686" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2714:2863" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="2881:2945" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3000:3143" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3230:3282" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3314:3413" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3453:3492" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="3526:4593" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="4637:4952" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="4981:5135" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="5169:5257" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="5273:5321" ph="{&quot;ui&quot;: 'bdd'...}" />
+            <marker date="1508752836646" expanded="true" signature="5327:5709" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="5714:5913" ph="/** Gets executed once before all workers get launched. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="5918:5975" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="5980:6375" ph="/** Gets executed just before initialising the webdriver session and test framework. It allows you ...*/" />
+            <marker date="1508752836646" expanded="true" signature="6380:6448" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="6453:6795" ph="/** Gets executed before test execution begins. At this point you can access to all global ...*/" />
+            <marker date="1508752836646" expanded="true" signature="6800:6860" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="6865:6974" ph="/** Hook that gets executed before the suite starts ...*/" />
+            <marker date="1508752836646" expanded="true" signature="6979:7023" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7028:7164" ph="/** Hook that gets executed _before_ a hook within the suite starts (e.g. runs before calling ...*/" />
+            <marker date="1508752836646" expanded="true" signature="7169:7207" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7212:7345" ph="/** Hook that gets executed _after_ a hook within the suite starts (e.g. runs after calling ...*/" />
+            <marker date="1508752836646" expanded="true" signature="7350:7387" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7392:7540" ph="/** Function to be executed before a test (in Mocha/Jasmine) or a step (in Cucumber) starts. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="7545:7587" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7592:7776" ph="/** Runs before a WebdriverIO command gets executed. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="7781:7839" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="7844:8144" ph="/** Runs after a WebdriverIO command gets executed ...*/" />
+            <marker date="1508752836646" expanded="true" signature="8149:8221" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="8226:8373" ph="/** Function to be executed after a test (in Mocha/Jasmine) or a step (in Cucumber) starts. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="8378:8419" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="8424:8535" ph="/** Hook that gets executed after the suite has ended ...*/" />
+            <marker date="1508752836646" expanded="true" signature="8540:8583" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="8588:8916" ph="/** Gets executed after all tests are done. You still have access to all global variables from ...*/" />
+            <marker date="1508752836646" expanded="true" signature="8921:8981" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="8986:9264" ph="/** Gets executed right after terminating the webdriver session. ...*/" />
+            <marker date="1508752836646" expanded="true" signature="9269:9336" ph="//..." />
+            <marker date="1508752836646" expanded="true" signature="9341:9568" ph="/** Gets executed after all workers got shut down and the process is about to exit. It is not ...*/" />
+            <marker date="1508752836646" expanded="true" signature="9573:9617" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wdioSAUCE.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="46" column="46" lean-forward="false" selection-start-line="46" selection-start-column="46" selection-end-line="46" selection-end-column="46" />
+          <folding>
+            <marker date="1508754869060" expanded="false" signature="0:45" ph="/** Created by Amie Yau on 23/10/2017. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="63:10011" ph="{&quot;logLevel&quot;: 'silent'...}" />
+            <marker date="1508754869060" expanded="true" signature="70:502" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="514:552" ph="[...]" />
+            <marker date="1508754869060" expanded="true" signature="595:638" ph="[...]" />
+            <marker date="1508754869060" expanded="true" signature="644:1545" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="1572:1821" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="1840:2445" ph="[...]" />
+            <marker date="1508754869060" expanded="true" signature="1850:2088" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="2097:2196" ph="{&quot;browserName&quot;: 'chrome'...}" />
+            <marker date="1508754869060" expanded="true" signature="2206:2438" ph="{&quot;browserName&quot;: 'Safari'...}" />
+            <marker date="1508754869060" expanded="true" signature="2451:2845" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="2866:2954" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="2983:3023" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3051:3200" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3218:3282" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3337:3480" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3567:3619" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3651:3750" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3790:3829" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="3863:4930" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="5040:5348" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="5377:5531" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="5561:5649" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="5665:5713" ph="{&quot;ui&quot;: 'bdd'...}" />
+            <marker date="1508754869060" expanded="true" signature="5719:6101" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="6106:6305" ph="/** Gets executed once before all workers get launched. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="6310:6367" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="6372:6767" ph="/** Gets executed just before initialising the webdriver session and test framework. It allows you ...*/" />
+            <marker date="1508754869060" expanded="true" signature="6772:6840" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="6845:7187" ph="/** Gets executed before test execution begins. At this point you can access to all global ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7192:7252" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7257:7366" ph="/** Hook that gets executed before the suite starts ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7371:7415" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7420:7556" ph="/** Hook that gets executed _before_ a hook within the suite starts (e.g. runs before calling ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7561:7599" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7604:7737" ph="/** Hook that gets executed _after_ a hook within the suite starts (e.g. runs after calling ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7742:7779" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7784:7932" ph="/** Function to be executed before a test (in Mocha/Jasmine) or a step (in Cucumber) starts. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="7937:7979" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="7984:8168" ph="/** Runs before a WebdriverIO command gets executed. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="8173:8231" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="8236:8536" ph="/** Runs after a WebdriverIO command gets executed ...*/" />
+            <marker date="1508754869060" expanded="true" signature="8541:8613" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="8618:8765" ph="/** Function to be executed after a test (in Mocha/Jasmine) or a step (in Cucumber) starts. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="8770:8811" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="8816:8927" ph="/** Hook that gets executed after the suite has ended ...*/" />
+            <marker date="1508754869060" expanded="true" signature="8932:8975" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="8980:9308" ph="/** Gets executed after all tests are done. You still have access to all global variables from ...*/" />
+            <marker date="1508754869060" expanded="true" signature="9313:9373" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="9378:9656" ph="/** Gets executed right after terminating the webdriver session. ...*/" />
+            <marker date="1508754869060" expanded="true" signature="9661:9728" ph="//..." />
+            <marker date="1508754869060" expanded="true" signature="9733:9960" ph="/** Gets executed after all workers got shut down and the process is about to exit. It is not ...*/" />
+            <marker date="1508754869060" expanded="true" signature="9965:10009" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/support/hooks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="4" column="2" lean-forward="false" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding>
+            <marker date="1508508639673" expanded="false" signature="0:45" ph="/** Created by Amie Yau on 20/10/2017. ...*/" />
+            <marker date="1508508639673" expanded="true" signature="46:108" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/helpers/methods/completeValidSingleRisk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="52" lean-forward="true" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/helpers/elements/riskPageElementIds.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="38" lean-forward="true" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/helpers/methods/navigateToRiskPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="6" column="54" lean-forward="false" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wdioLOCAL.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/specs/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <marker date="1509361377901" expanded="false" signature="0:45" ph="/** Created by Amie Yau on 20/10/2017. ...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
