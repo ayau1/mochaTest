@@ -12,5 +12,9 @@ module.exports = {
         proposerEmailAddress: "#email",
         proposerHouseNumber: "#houseNumber",
         proposerPostcode: "#postcode",
-        contactPrefEmail: "label[for=contactByEmail]"
+        contactPrefEmail: "label[for=contactByEmail]",
+        contactPrefPost: "label[for=contactByPost]",
+        termsAndConditions: "label[for=agreeTerms]",
+        submitRisk: "#submitPolicyDetails_vt"
+
     };

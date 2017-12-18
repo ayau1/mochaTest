@@ -17,4 +17,7 @@ module.exports = function() {
         .setValue(riskPageElementIds.proposerHouseNumber,"1")
         .setValue(riskPageElementIds.proposerPostcode,"PE2 6XJ")
         .click(riskPageElementIds.contactPrefEmail)
+        .click(riskPageElementIds.contactPrefPost)
+        .click(riskPageElementIds.termsAndConditions)
+        .click(riskPageElementIds.submitRisk)
 }
