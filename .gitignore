@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 
 #errorshots
-./test/support/errorShots
+test/support/errorShots
 
 # Runtime data
 pids

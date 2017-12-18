@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test-local": "./node_modules/.bin/wdio ./wdioLOCAL.conf.js"
+    "test-local": "./node_modules/.bin/wdio ./wdioLOCAL.conf.js",
+    "test-sauce": "./node_modules/.bin/wdio ./wdioSAUCE.conf.js"
   },
   "keywords": [],
   "author": "",
